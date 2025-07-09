@@ -62,4 +62,4 @@ The application is designed with a clean interface, simple navigation, and a lin
 The use of animations and button transitions enhances engagement. While currently optimized for desktops, it can be made mobile-friendly with media queries**.
 
 **OUTPUT:**
-
+<img width="1919" height="887" alt="Image" src="https://github.com/user-attachments/assets/566c9766-5eef-4506-a16e-248628ec9e38" />
